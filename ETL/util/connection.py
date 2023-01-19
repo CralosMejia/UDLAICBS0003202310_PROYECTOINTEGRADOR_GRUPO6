@@ -1,5 +1,5 @@
 from sqlalchemy import create_engine
-from util.properties import getProperty
+from ETL.util.properties import getProperty
 
 import pymysql
 import traceback

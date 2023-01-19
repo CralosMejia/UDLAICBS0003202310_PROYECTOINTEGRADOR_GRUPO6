@@ -11,7 +11,7 @@
 
 <sub>3.¿Cuántas materias dictan los profesores que tiene el mayor sueldo según cada área académica?</sub>
 
-<sub>4.¿Cuál es el género de los estudiantes con el promedio más alto según el área académica?</sub>
+<sub>4.¿Cuál es el género de los estudiantes con el promedio más alto?</sub>
 
 ________________________________________________
 <sub>Para la solución se utilizó la siguiente infraestructura: Python, MySQL y Microsoft PowerBI.</sub>
